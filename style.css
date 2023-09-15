@@ -1,0 +1,23 @@
+
+.fetch-btn{
+    height: 3.3em;
+    width: 8em;
+    position: relative;
+    left: 44%;
+    border-radius: 15%;
+    margin-bottom: 20px;
+    background-color:beige;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color:bisque;
+}
+
+hr{
+    border: 1px solid black;
+}
